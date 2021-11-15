@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mfrodriguezc/reto4/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/mfrodriguezc/reto4/static/js/main.9da1da3a.chunk.js",
-    "main.js.map": "/mfrodriguezc/reto4/static/js/main.9da1da3a.chunk.js.map",
-    "runtime-main.js": "/mfrodriguezc/reto4/static/js/runtime-main.5c379d7b.js",
-    "runtime-main.js.map": "/mfrodriguezc/reto4/static/js/runtime-main.5c379d7b.js.map",
-    "static/js/2.73a29911.chunk.js": "/mfrodriguezc/reto4/static/js/2.73a29911.chunk.js",
-    "static/js/2.73a29911.chunk.js.map": "/mfrodriguezc/reto4/static/js/2.73a29911.chunk.js.map",
-    "static/js/3.f9a26a59.chunk.js": "/mfrodriguezc/reto4/static/js/3.f9a26a59.chunk.js",
-    "static/js/3.f9a26a59.chunk.js.map": "/mfrodriguezc/reto4/static/js/3.f9a26a59.chunk.js.map",
-    "index.html": "/mfrodriguezc/reto4/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/mfrodriguezc/reto4/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.73a29911.chunk.js.LICENSE.txt": "/mfrodriguezc/reto4/static/js/2.73a29911.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mfrodriguezc/reto4/static/media/logo.6ce24c58.svg"
+    "main.css": "/reto4/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/reto4/static/js/main.9da1da3a.chunk.js",
+    "main.js.map": "/reto4/static/js/main.9da1da3a.chunk.js.map",
+    "runtime-main.js": "/reto4/static/js/runtime-main.72d40f23.js",
+    "runtime-main.js.map": "/reto4/static/js/runtime-main.72d40f23.js.map",
+    "static/js/2.73a29911.chunk.js": "/reto4/static/js/2.73a29911.chunk.js",
+    "static/js/2.73a29911.chunk.js.map": "/reto4/static/js/2.73a29911.chunk.js.map",
+    "static/js/3.f9a26a59.chunk.js": "/reto4/static/js/3.f9a26a59.chunk.js",
+    "static/js/3.f9a26a59.chunk.js.map": "/reto4/static/js/3.f9a26a59.chunk.js.map",
+    "index.html": "/reto4/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/reto4/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.73a29911.chunk.js.LICENSE.txt": "/reto4/static/js/2.73a29911.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reto4/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c379d7b.js",
+    "static/js/runtime-main.72d40f23.js",
     "static/js/2.73a29911.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.9da1da3a.chunk.js"
